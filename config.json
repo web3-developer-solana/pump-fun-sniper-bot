@@ -1,6 +1,8 @@
 {
     "wallets": [
-        ""
+        "your-wallet-01-private-key",
+        "your-wallet-02-private-key",
+        "your-wallet-03-private-key"
     ],
     "rpc": [
         "https://mainnet.helius-rpc.com/?api-key=0109717a-77b4-498a-bc3c-a0b31aa1b3bf",
