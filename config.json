@@ -1,0 +1,11 @@
+{
+    "wallets": [
+        ""
+    ],
+    "rpc": [
+        "https://mainnet.helius-rpc.com/?api-key=0109717a-77b4-498a-bc3c-a0b31aa1b3bf",
+        "https://mainnet.helius-rpc.com/?api-key=f4713222-8bbc-4495-aace-5693e719712e",
+        "https://mainnet.helius-rpc.com/?api-key=efc82eb1-8237-4c46-b915-dee916dd3bd7"
+    ],
+    "amount": 0.1
+}
