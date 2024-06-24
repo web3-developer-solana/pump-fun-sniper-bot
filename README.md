@@ -1,5 +1,7 @@
 # pump-fun-sniper-bot
-
+```commandline
+At least double, but there is a handling fee
+```
 ## setting
 ### config env
 ```commandline
