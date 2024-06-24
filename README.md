@@ -16,3 +16,8 @@
     step 2: choose your rpc endpoint
     step 3: config amount(sol) you want to buy each time
 ```
+
+### run 
+```commandline
+    python main.py
+```
